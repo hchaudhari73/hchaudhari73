@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- 🌱 I’m currently working as full stack developer (Go, MongoDB, React) in a blockchain startup.
+- 🌱 I’m currently working as full stack developer (Go, MongoDB, React) in a blockchain company.
 - 📫 How to reach me: hchaudhari73@gmail.com  
 - 😄 Pronouns: He
 
